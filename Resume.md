@@ -1,11 +1,15 @@
-Quin Morgan's Resume
+# Quin Morgan's Resume
 
-Work Experirience
--none
+## Employment History
+Chores
 
-Education
+## Education History
+JC Booth Middle School
+McIntosh High School (2022-2023)
+- Currently a freshman
 
-Extracurriculars
--none
+## Hobbies
+Playing video games
+- Wants to start making games as a hobby.
 
-Skills
+Perusing media
