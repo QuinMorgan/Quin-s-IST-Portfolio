@@ -4,7 +4,7 @@
 Chores
 
 ## Education History
-JC Booth Middle School
+JC Booth Middle School (2019-2022)
 
 McIntosh High School (2022-2023)
 - Currently a freshman
