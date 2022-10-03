@@ -14,3 +14,10 @@ Playing video games
 - Wants to start making games as a hobby.
 
 Perusing media
+
+##Typing
+-Keys Learned
+  -J, F, and Space
+  -U, R, and K
+  -D, E, and I
+  -C, G, and N
