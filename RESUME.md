@@ -15,10 +15,9 @@ Playing video games
 
 Perusing media
 
-##Typing
-
--Keys Learned
-  -J, F, and Space
-  -U, R, and K
-  -D, E, and I
-  -C, G, and N
+## Typing
+- Keys Learned
+  - J, F, and Space
+  - U, R, and K
+  - D, E, and I
+  - C, G, and N
