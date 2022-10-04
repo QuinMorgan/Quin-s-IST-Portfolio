@@ -21,3 +21,5 @@ Perusing media
   - U, R, and K
   - D, E, and I
   - C, G, and N
+ - Average Touch-Typing Speed
+   - 25WPM
