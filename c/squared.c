@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int squared(int x) {
-	return x^2;
+	return x*x;
 }
 
 int main() {
@@ -10,6 +10,6 @@ int main() {
 	a = 6;
 	b = squared(2);
 	int c = a + b;
-	printf("%i", c);
+	printf("%i\n", c);
 	return 0;
 }
